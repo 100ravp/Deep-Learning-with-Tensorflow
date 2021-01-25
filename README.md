@@ -13,10 +13,9 @@ In this course I'm going to teach different machine learning algorithms and ther
   because that we will learn during the projects.
 
 
-## Video Links
+## Videos Link
 
 - [01- Artificial Neural Network | Deep Learning with Tensorflow and Artificial Intelligence | 2020](https://www.youtube.com/watch?v=jmj1ksiDGYM&t=295s)
-
 
 - [02- Convolutional Neural Network | Deep Learning with Tensorflow and Artificial Intelligence | 2020](https://www.youtube.com/watch?v=wveG0A_Stv8&t=1043s)
 
