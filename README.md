@@ -9,8 +9,8 @@ In this course I'm going to teach different machine learning algorithms and ther
 - First thing you will learn is different deep learning algorithms like artificial neural network, convollutional nueral network and etc etc
  
 - Next thing you are going to learn from this lecture series is how to use tensorflow so once we learn any algorithm we will try to do a project using that algorithm 
-  and for that we will be using the google colab so in a way you will learn how to use google colaband there wont be any video explaining how to use google colab 
-  because that we will learn during the projects as well
+  and for that we will be using the google colab so in a way you will learn how to use google colab, and there wont be any video explaining how to use google colab 
+  because that we will learn during the projects.
 
 
 ## Video Links
