@@ -1,6 +1,6 @@
 # Deep-Learning-with-Tensorflow
 
-## Course Deatils
+## Course Details
 
 In this course I'm going to teach different machine learning algorithms and there implementation in TensorFlow.
 
